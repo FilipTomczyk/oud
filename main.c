@@ -15,5 +15,8 @@ int main(void)
 {
     int a,b;
     printf("Hello, World!\n");
+    sumowanie(a,b);
+    mnozenie(a,b);
+    donknow();
     return 0;
 }
