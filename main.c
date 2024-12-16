@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+
+
+void donknow() {
+    printf("super update");
+}
 int sumowanie(int a, int b) {
     return a+b;
 }
